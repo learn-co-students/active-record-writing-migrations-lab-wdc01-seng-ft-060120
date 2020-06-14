@@ -1,4 +1,4 @@
-# Let's Write Some Migrations
+<!-- # Let's Write Some Migrations
 
 ## Objectives
 
@@ -37,7 +37,7 @@ the camel case version of the _filename_, minus the numbers in front). Inside
 method.
 
 Let's add a `:grade` column and a `:birthdate` column. The `:grade` column type
-should be `integer` and the `:birthdate` column type should be `string`.
+should be `integer` and the `:birthdate` column type should be `string`. -->
 
 ## Changing a Column
 
